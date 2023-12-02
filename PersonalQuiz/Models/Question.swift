@@ -36,7 +36,7 @@ struct Question {
                 title: "Любите ли вы поездки на машине?",
                 type: .ranged,
                 anwswers: [
-                    Answer(title: "Ненавижу", animal: .сat),
+                    Answer(title: "Ненавижу", animal: .cat),
                     Answer(title: "Нервничаю", animal: .rabbit),
                     Answer(title: "Не замечаю", animal: .turtle),
                     Answer(title: "Обожаю", animal: .dog)
